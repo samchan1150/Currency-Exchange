@@ -112,3 +112,4 @@ fetchExchangeRates().then(() => {
   // Perform initial calculation
   calculateExchange();
 });
+ 
